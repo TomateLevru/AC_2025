@@ -1,0 +1,16 @@
+Exercício 7
+
+
+- Que tipo de ataque a Ana sofreu?
+R: esse ataque é chamado de phishing.
+
+- Que sinais poderiam indicar o e-mail era falso?
+R: verificar se o e-mail recebido é realmente do banco.
+
+- O que é que a Ana deveria ter feito antes de clicar no link a inserir os seus dados?
+R: verificar o link/URL em que esta clicando.
+
+- Que medidas ela pode tomar agora para minimizar os danos?
+R: ligar para o banco para avisar oque aconteceu e pedir para trocar a senha.
+
+
